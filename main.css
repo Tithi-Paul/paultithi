@@ -637,4 +637,12 @@ input[type="submit"]:hover{
 		right: 2rem;
 	}
 }
+@media screen and (max-width: 576px)
+{
+    .timeline ul{
+        margin: 0 0 0 auto;
+        margin-left: 0px;
+        width: 100%;
+    }
+}
 /*End media queries*/
